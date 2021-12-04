@@ -1,0 +1,10 @@
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\bin\Debug\IlkMasaustuProjem.exe.config
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\bin\Debug\IlkMasaustuProjem.exe
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\bin\Debug\IlkMasaustuProjem.pdb
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.Properties.Resources.resources
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.csproj.GenerateResource.cache
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.exe
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.pdb
+C:\Users\Alp\source\repos\IlkMasaustuProjem\IlkMasaustuProjem\obj\Debug\IlkMasaustuProjem.Form1.resources
